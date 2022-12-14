@@ -1,21 +1,14 @@
-/*
- * UserContext.java
- *
- * Created on 9 décembre 2001, 21:35
- */
- 
 package codepost.data;
 
 /**
- *
- * @author  loik
+ * Contexte Utilisateur, stockÃ© dans la session HTTP
+ * @author  pat
  * @version 
  */
 public class UserContext {
 
     String userName;
     
-    /** Creates new UserContext */
     public UserContext() {
     }
 

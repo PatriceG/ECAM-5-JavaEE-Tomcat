@@ -1,9 +1,3 @@
-/*
- * Created on 8 oct. 2004
- *
- * TODO To change the template for this generated file go to
- * Window - Preferences - Java - Code Style - Code Templates
- */
 package codepost;
 import java.io.IOException;
 
@@ -19,14 +13,10 @@ import codepost.data.UserContext;
 /**
  * @author pat
  * 
- * TODO To change the template for this generated type comment go to Window -
- * Preferences - Java - Code Style - Code Templates
+ * Gère le formulaire de la page d'accueil
  */
 public class LoginServlet extends HttpServlet {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public void service(HttpServletRequest request, HttpServletResponse response)
